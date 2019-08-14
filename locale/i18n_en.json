@@ -1,0 +1,24 @@
+{
+  "app_name":"Flutter Shopping",
+  "group_name":"JDK GROUP",
+  "title_subject":"Subject",
+  "title_welcome":"Welcome to",
+  "title_sign_in_continue":"Sign in to continue",
+  "title_topic":"Topic",
+
+  "drawer_home":"Home",
+  "drawer_my_order":"My Order",
+  "drawer_profile":"Profile",
+  "drawer_favourite":"Favourite",
+  "drawer_order_history":"Order History",
+  "drawer_contact_us":"Contact us",
+  "drawer_share_app":"Share App",
+
+
+  "title_order":"Order",
+  "title_category":"Category",
+
+  "develop_by":" Develop by: Flutter Tutorial"
+
+
+}

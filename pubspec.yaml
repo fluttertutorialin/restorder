@@ -1,0 +1,58 @@
+name: restorder
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http:
+  cupertino_icons:
+  font_awesome_flutter:
+  rxdart:
+  flutter_masked_text:
+  flutter_localizations:
+    sdk: flutter
+  flutter_launcher_icons:
+  shared_preferences:
+  json_annotation:
+  path_provider:
+  url_launcher:
+  intl:
+  fluttertoast:
+  json_serializable:
+  strings:
+  query_params:
+  image_picker:
+  mask_shifter:
+
+dev_dependencies:
+  random_pk:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - locale/i18n_en.json
+    - locale/i18n_hi.json
+
+  fonts:
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/quicksand_medium.ttf
+          style: normal
+        - asset: assets/fonts/quicksand_bold.otf
+          weight: 700
+
+
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/raleway_regular.ttf
+          style: normal
+        - asset: assets/fonts/raleway_medium.ttf

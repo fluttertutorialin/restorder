@@ -1,0 +1,17 @@
+{
+  "app_name":"साक्षात्कार प्रश्न",
+  "group_name":"JDK ग्रुप",
+  "title_subject":"विषय",
+  "title_welcome":"में स्वागत",
+  "title_sign_in_continue":"जारी रखने के लिए साइन इन करें",
+  "title_topic":"विषय",
+
+  "drawer_home":"होम",
+  "drawer_quiz":"प्रश्नोत्तरी",
+  "drawer_profile":"प्रोफाइल",
+  "drawer_favourite":"पसंदीदा",
+  "drawer_contact_us":"हमसे संपर्क करें",
+  "drawer_share_app":"ऐप शेयर करें",
+
+  "develop_by":"द्वारा विकसित: लखानी कमलेश"
+}
